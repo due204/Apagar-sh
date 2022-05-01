@@ -1,22 +1,22 @@
 #!/bin/bash
-#===============================================================================
-#
-#          FILE: Apagar.sh
-# 
-#         USAGE: ./Apagar.sh 
-# 
-#   DESCRIPTION: Apagar el monitor despues de un tiempo
-#		 o en el momento.
-# 
-#       OPTIONS: None
-#  REQUIREMENTS: Zenity
-#          BUGS: ???
-#         NOTES: Ninguna ^^
-#        AUTHOR: Due204
-#  ORGANIZATION: ---
-#       CREATED: 25/03/12 20:57:01 ART
-#      REVISION: 0.2
-#===============================================================================
+# ===================================================== #
+#							#
+#          FILE: Apagar.sh				#
+# 							#
+#         USAGE: ./Apagar.sh 				#
+# 							#
+#   DESCRIPTION: Apagar el monitor despues de un tiempo #
+#		 o en el momento.			#
+# 							#
+#       OPTIONS: None					#
+#  REQUIREMENTS: Yad					#
+#          BUGS: ???					#
+#         NOTES: Ninguna ^^				#
+#        AUTHOR: Due204					#
+#  ORGANIZATION: ---					#
+#       CREATED: 25/03/12 20:57:01 ART			#
+#      REVISION: 0.2					#
+# ===================================================== #
 
 
 function apagar()
